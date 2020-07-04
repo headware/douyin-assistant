@@ -2,9 +2,9 @@
 
 If you want and agree to use it for study only, contact with me: kkbbcc@foxmail.com
 
-DDouyin sharp tool,floating window,copy sharp url to get raw video
+Douyin sharp tool,floating window,copy sharp url to get raw video
 
-
+## Fixed
 In Android 10 cannot listen to the clipboard,so we need a EditText on top Windows,hook global focus. 
 
 Floating window button,click it to download raw video to self cloud.
@@ -71,7 +71,7 @@ data = {"url": url, "millis": millis_short}
 gorgonInfo = requests.post("http://127.0.0.1:5016/gorgon", json=data).json()
 
 print(url, "\n", gorgonInfo)
-#{'khronos': 1590373639, 'gorgon': '040100800800ccfdf0b233263c9252381b50880d73efe2b7af06', 'status': 'ok'}
+#{'khronos': 1590373639, 'gorgon': '040000800800ccfdf0b233263c9252381b50880d73efe2b7af06', 'status': 'ok'}
 
 headers = {
 	"X-SS-REQ-TICKET": str(millis),
