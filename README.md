@@ -4,6 +4,7 @@ If you want and agree to use it for study only, contact with me: kkbbcc@foxmail.
 
 Douyin sharp tool,floating window,copy sharp url to get raw video
 
+
 ## Fixed
 In Android 10 cannot listen to the clipboard,so we need a EditText on top Windows,hook global focus. 
 
