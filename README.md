@@ -1,6 +1,6 @@
 # douyin-assistant
 
-If you want and agree to use it for study only, contact with me: kkbbcc@foxmail.com
+If you want need contact with me: kkbbcc@foxmail.com
 
 Douyin sharp tool,floating window,copy sharp url to get raw video
 
